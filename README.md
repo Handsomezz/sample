@@ -4,7 +4,12 @@ Install [MetacelloPreview 1.0-beta.32][1], then:
 
 ```Smalltalk
 
-//Mel gibson
+<<<<<<< HEAD
+
+=======
+//AL PACINO
+
+>>>>>>> 24dbaf215f228bac8e373677042c90a0eb74c497
 
 Metacello new
   configuration: 'Sample';
