@@ -14,7 +14,7 @@ Metacello new
   version: #stable;
   repository: 'github://dalehenrich/sample:configuration';
   load.
-```
+```1`
 
 ###TravisCI Status
 **master**: [![Build Status](https://secure.travis-ci.org/dalehenrich/sample.png?branch=master)](http://travis-ci.org/dalehenrich/sample)
