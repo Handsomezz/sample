@@ -3,6 +3,9 @@
 Install [MetacelloPreview 1.0-beta.32][1], then:
 
 ```Smalltalk
+
+//Mel gibson
+
 Metacello new
   configuration: 'Sample';
   version: #stable;
